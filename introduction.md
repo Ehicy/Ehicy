@@ -1,6 +1,6 @@
 - Hi, I’m @Ehicy
 - I'm a student
-- I’m interested in C++ 
+- I’m interested in C++ ,java kotlin
 - I’m currently learning java
 - I'm trying my best to become better
 - To reach me : tingxuan_deng2007@163.com
